@@ -18,4 +18,5 @@ The project is still in early development and undergoing rapid iteration. Once i
 
 * [**api**](https://github.com/TrueStarHQ/api) - Backend responsible for handling product review analysis
 * [**browser-extension**](https://github.com/TrueStarHQ/browser-extension) - Browser extension that submits reviews to the API for analysis and displays the results in the browser
+* [**infrastructure**](https://github.com/TrueStarHQ/infrastructure) - Configuration for deploying and managing the project's Google Cloud resources
 * [**website**](https://github.com/TrueStarHQ/website) - Public website for the project
